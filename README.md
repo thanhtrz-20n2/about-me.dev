@@ -37,16 +37,3 @@
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
 </p>
-
-<!-- <h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/matrix278"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="matrix278" /></a>
-</p> -->
-
-<div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-    </a>
-</div>
-
-<!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
